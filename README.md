@@ -5,25 +5,26 @@ Utilities I used to make my life easier -- generating html from excel files, res
 
 excelScan.rb 
 Turns this:
-1	firstname1	lastname1	19:13.00
 
-2	firstname2	lastname2	20:30.00
+> 1	firstname1	lastname1	19:13.00
 
-3	firstname3	lastname3	20:36.00
+> 2	firstname2	lastname2	20:30.00
 
-4	firstname4	lastname4	20:50.00
+> 3	firstname3	lastname3	20:36.00
 
-5	firstname5	lastname5	21:00.00
+> 4	firstname4	lastname4	20:50.00
 
-6	firstname6	lastname6	21:03.00
+> 5	firstname5	lastname5	21:00.00
 
-7	firstname7	lastname7	21:15.00
+> 6	firstname6	lastname6	21:03.00
 
-8	firstname8	lastname8	21:17.00
+> 7	firstname7	lastname7	21:15.00
 
-9	firstname9	lastname9	22:18.00
+> 8	firstname8	lastname8	21:17.00
 
-10	firstname10	lastname10	24:26.00
+> 9	firstname9	lastname9	22:18.00
+
+> 10	firstname10	lastname10	24:26.00
 
 into this:
 
