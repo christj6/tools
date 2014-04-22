@@ -4,6 +4,7 @@ tools
 Utilities I used to make my life easier -- generating html from excel files, resizing batches of large photos, etc.
 
 excelScan.rb 
+
 Turns this:
 
 > 1	firstname1	lastname1	19:13.00
